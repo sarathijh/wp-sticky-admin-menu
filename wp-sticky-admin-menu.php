@@ -1,12 +1,12 @@
 <?php
 	
 	/*!
-	* Plugin Name:	WP Sticky Admin Menu
-	* Date:         January 9th, 2013
-	* Description:	Makes the admin navigation menu fixed to the left side of the page.
-	* Version:		1.0.0
-	* Author:		Sarathi J. Hansen
-	* License:		GPL2
+	* Plugin Name: WP Sticky Admin Menu
+	* Date:        January 9th, 2013
+	* Description: Makes the admin navigation menu fixed to the left side of the page.
+	* Version:     1.0.0
+	* Author:      Sarathi Hansen
+	* License:     GPL2
 	*/
 	
 	// Hook into the admin script queue.
