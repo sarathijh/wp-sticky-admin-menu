@@ -1,6 +1,7 @@
 /*!
  * WP Sticky Admin Menu
- * January 9th, 2013
+ * Author: Sarathi Hansen
+ * Date: January 9th, 2013
  */
 
 (function($) {
