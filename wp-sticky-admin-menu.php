@@ -4,7 +4,7 @@
 	* Plugin Name: WP Sticky Admin Menu
 	* Date:        January 9th, 2013
 	* Description: Makes the admin navigation menu fixed to the left side of the page.
-	* Version:     1.0.0
+	* Version:     1.0
 	* Author:      Sarathi Hansen
 	* License:     GPL2
 	*/
